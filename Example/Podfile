@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZoomyImageView_Tests' do
+  pod 'ZoomyImageView', :path => '../'
+  
+  
+end
