@@ -1,0 +1,16 @@
+PODS:
+  - ZoomyImageView (0.1.0)
+
+DEPENDENCIES:
+  - ZoomyImageView (from `../`)
+
+EXTERNAL SOURCES:
+  ZoomyImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZoomyImageView: 59aa8db2bf4deab41ef1f92112a28ad3cf60cbac
+
+PODFILE CHECKSUM: 7330d0a72da59a5b434e9cb980768f7693d5881a
+
+COCOAPODS: 1.5.3

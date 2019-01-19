@@ -1,0 +1,22 @@
+{
+  "name": "ZoomyImageView",
+  "version": "0.1.0",
+  "summary": "A short description of ZoomyImageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/prosherifzekr/ZoomyImageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "prosherifzekr": "prosherifzekry@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/prosherifzekr/ZoomyImageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZoomyImageView/Classes/**/*"
+}

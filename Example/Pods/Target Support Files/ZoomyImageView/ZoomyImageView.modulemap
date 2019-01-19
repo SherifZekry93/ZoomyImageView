@@ -1,0 +1,6 @@
+framework module ZoomyImageView {
+  umbrella header "ZoomyImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
